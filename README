@@ -1,8 +1,13 @@
 Solution for task-tracker challenge from roadmap
 
+Clone the repository with command:
+git clone https://github.com/matheMADician/Task-Tracker
+cd Task-Tracker
 
+Then build with
+mingw32-make  or  make
 
-commands:
+Usable commands:
     ./task_manager add "Buy groceries"
     ./task_manager update 0 "Clean house"
     ./task_manager delete 0
